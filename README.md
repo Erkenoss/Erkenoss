@@ -12,8 +12,6 @@ I have acquired a solid foundation in programming during my time at [Holberton S
 
 Currently, I am developing my portfolio using Unity with the intention of transitioning it into a web application. Additionally, I am collaborating with a friend on a Unity project similar to TaleSpire, featuring animated characters and customizable maps (stored in a private repository). Concurrently, I am working on my own RPG game to create a unique universe.
 
-[Here my github project, first RPG base on Unity](https://github.com/Erkenoss/CrimsonRiseStart)
-
 Thank you for taking the time to read about my background and the technologies I am proficient in.
 
 ## **Techs and languages**
