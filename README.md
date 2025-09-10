@@ -10,7 +10,12 @@ My professional background is diverse, with experience in various sectors. My in
 
 I have acquired a solid foundation in programming during my time at [Holberton School](https://www.holbertonschool.fr/), where I gained proficiency in languages such as C, Python, as well as some aspects of JavaScript, HTML, and CSS. You can explore my projects in these languages on my GitHub repository.
 
-Currently, I am developing my portfolio using Unity with the intention of transitioning it into a web application. Additionally, I am collaborating with a friend on a Unity project similar to TaleSpire, featuring animated characters and customizable maps (stored in a private repository). Concurrently, I am working on my own RPG game to create a unique universe.
+3 years experiences on Unity, it's time for me to create my oown enterprise so, I'm an XR/Game dev in Freelance working on various projets as:
+Vice: A Tactical RPG with the ambition of explore a very hard and Dark Fantasy universe.
+Spherier: A VR interactive game where the player is in a sphere and run accross different and sci fi environment
+And some other... ;)
+I have exeperiences in the VR field after have working in multiply works immersion. Game development for create multiply own game.
+
 
 Thank you for taking the time to read about my background and the technologies I am proficient in.
 
