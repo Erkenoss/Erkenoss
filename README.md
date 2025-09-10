@@ -15,7 +15,6 @@ Currently, I am developing my portfolio using Unity with the intention of transi
 Thank you for taking the time to read about my background and the technologies I am proficient in.
 
 ## **Techs and languages**
-
 ## Unity C# C Python CSS HTML Javascript Markdown Bash Ubuntu SQL
 
 ## Contacts
