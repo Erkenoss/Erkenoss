@@ -1,8 +1,6 @@
 # Hi!
 # My name is Xavier!
 
-### <span style="color: blue ;"> >>> **Looking for an alternation in AR/VR/XR** <<< </span>
-
 ## About Me
 I have recently completed my first year at Holberton France Toulouse and I am currently seeking an internship opportunity in the field of **AR/VR**.
 
