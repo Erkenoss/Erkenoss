@@ -2,13 +2,14 @@
 # My name is Xavier!
 
 ## About Me
-I have recently completed my first year at Holberton France Toulouse and I am currently seeking an internship opportunity in the field of **AR/VR**.
+After have completed my first year at Holberton France Toulouse and I have seeking an internship opportunity in the field of **AR/VR**. Whitout success and after finding my first exeprience in. I have finally create my own structure, Crimson. 
+I am a XR/Game dev in Freelance and I have 3 years experiences on Unity.
 
 My professional background is diverse, with experience in various sectors. My interests are equally varied, ranging from chess and video games to RPGs, the metal universe, and human relationships.
 
 I have acquired a solid foundation in programming during my time at [Holberton School](https://www.holbertonschool.fr/), where I gained proficiency in languages such as C, Python, as well as some aspects of JavaScript, HTML, and CSS. You can explore my projects in these languages on my GitHub repository.
-___
-3 years experiences on Unity, it's time for me to create my oown enterprise so, I'm an XR/Game dev in Freelance working on various projets as:
+
+Currently, I'm working on various projets as:
 ___
 Vice: A Tactical RPG with the ambition of explore a very hard and Dark Fantasy universe.
 Spherier: A VR interactive game where the player is in a sphere and run accross different and sci fi environment
