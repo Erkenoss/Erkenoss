@@ -1,27 +1,37 @@
-# Hi!
-# My name is Xavier!
+# Hi, I'm Xavier! 👋
 
-## About Me
-After have completed my first year at Holberton France Toulouse and I have seeking an internship opportunity in the field of **AR/VR**, whitout success, after finding my first exeprience in, I have finally create my own structure, Crimson. 
-I am a XR/Game dev in Freelance with 3 years experiences on Unity.
+### Unity Developer | C# Programmer | Gameplay & XR/VR
 
-My professional background is diverse, with experience in various sectors. My interests are equally varied, ranging from chess and video games to RPGs, the metal universe, human relationships... and some other, we are not in interview.
+I'm a passionate Unity developer with around **3 years of hands-on experience**, specializing in gameplay programming, software architecture, interactive systems, and XR/VR development.
 
-I have acquired a solid foundation in programming during my time at [Holberton School](https://www.holbertonschool.fr/), where I gained proficiency in languages such as C, Python, as well as some aspects of JavaScript, HTML, and CSS. You can explore my projects in these languages on my GitHub repository.
+I enjoy building clean, modular, and maintainable systems, solving complex technical challenges, and turning creative ideas into functional experiences.
 
-Currently, I'm working on various projets as:
-___
-Vice: A Tactical RPG with the ambition of explore a very hard and Dark Fantasy universe.
-Spherier: A VR interactive game where the player is in a sphere and run accross different and sci fi environment
-And some other... ;)
-I have exeperiences in the VR field after have working in multiply works immersion. Game development for create multiply own game.
-___
+### 🛠️ Technical Skills
 
-Thank you for taking the time to read about my background and the technologies I am proficient in.
+- **Languages:** C#, C, Python, JavaScript, SQL
+- **Game Development:** Unity 2D/3D, Unity 6, URP, Shader Graph
+- **Architecture:** OOP, SOLID principles, Event-driven systems, Generic programming, ScriptableObjects
+- **XR/VR:** Interactive environments, VR interactions, Auto Hand VR
+- **UI/UX:** Unity UI, TextMeshPro, Responsive UI, Localization
+- **Tools:** Git, GitHub, Addressables, Input System, Cinemachine
 
-## **Techs and languages**
-## Unity C# C Python CSS HTML Javascript Markdown Bash Ubuntu SQL
+### 🚀 What I'm Working On
 
-## Contacts
+- **Ghost Tactics:** A 2D tactical combat game featuring simultaneous action resolution, programmable combat sequences, and a ghost replay mechanic.
+- **Reusable Unity Systems:** Developing modular tools and gameplay systems designed for flexibility and maintainability.
 
-[Linkedin](https://www.linkedin.com/in/xavier-bertin-2406152a2/)
+### 💡 My Approach
+
+I believe good software development isn't just about making things work. It's about understanding *why* they work, anticipating problems, and building systems that remain reliable and maintainable as projects evolve.
+
+I particularly enjoy gameplay systems, architecture design, debugging, and technical problem-solving.
+
+### 🌍 Open to Opportunities
+
+I'm currently open to **Unity Developer, Gameplay Programmer, XR/VR Developer, and C# Developer** opportunities.
+
+📍 Based in France | Open to relocation across Europe
+
+🤝 Available for full-time positions and freelance collaborations.
+
+**Let's build something great together!**
